@@ -1,0 +1,36 @@
+# Holoframe · Dyson Swarm. Wireframe-hologram theme, one hue per variant.
+mode = "dark"
+
+accent = "#ff8f3a"
+selection = "#4f2c13"
+muted = "#73665c"
+
+background = "#0b0604"
+dark_background = "#040202"
+darker_background = "#080403"
+lighter_background = "#231409"
+
+foreground = "#f3dcc8"
+dark_foreground = "#7f7166"
+light_foreground = "#f6c9a4"
+bright_foreground = "#ffffff"
+
+red = "#ff5a4e"
+yellow = "#f2c14e"
+orange = "#ff8f3a"
+green = "#8fd46a"
+cyan = "#4fd6d0"
+blue = "#5aa9ff"
+magenta = "#d07bff"
+brown = "#7a4a2a"
+
+bright_red = "#ff8378"
+bright_yellow = "#ffd97a"
+bright_green = "#b2ec8c"
+bright_cyan = "#86ece6"
+bright_blue = "#8cc4ff"
+bright_magenta = "#e3a6ff"
+
+# Window borders fade from the accent to a dim hologram edge and back, like the HUD panels.
+hyprland_active_border = "rgba(ff8f3aee) rgba(ff8f3a40) rgba(ff8f3aee) 45deg"
+hyprland_inactive_border = "rgba(ff8f3a30)"
