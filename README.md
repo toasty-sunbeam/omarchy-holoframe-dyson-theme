@@ -6,7 +6,7 @@ An [Omarchy](https://omarchy.org) theme with an animated wireframe-hologram back
 
 A star surrounded by 240 collector markers on 12 evenly spaced orbital planes: a Walker 240/12/1 pattern at 62°, phased so no two collectors reach a crossing point together. Far-side sheets glint and near-side backs show as silhouettes. The tracked plane beams power to a receiver, a factory world launches new sheets, and a light curve shows the star dimming as coverage grows (1% of a Sun-like star is about 3.8 × 10²⁴ W, Kardashev 1.86).
 
-Holoframe is a set of five themes, each a single-hue hologram on near-black with bracketed HUD panels, live readouts and scanlines. Every scene is based on real engineering or physics, and all artwork is original and drawn in code.
+Holoframe is a set of six themes, each a single-hue hologram on near-black with bracketed HUD panels, live readouts and scanlines. Every scene is based on real engineering or physics, and all artwork is original and drawn in code.
 
 ## Install
 
@@ -54,6 +54,7 @@ o.bind("SUPER + ALT + P", "Pause background animation",
 - [O'Neill Habitat](https://github.com/toasty-sunbeam/omarchy-holoframe-oneill-theme) (magenta)
 - [Cycler Navigation](https://github.com/toasty-sunbeam/omarchy-holoframe-cycler-theme) (blue)
 - [Tokamak Reactor](https://github.com/toasty-sunbeam/omarchy-holoframe-tokamak-theme) (amber)
+- [Galactic Chart](https://github.com/toasty-sunbeam/omarchy-holoframe-galactic-theme) (orange HUD on the Milky Way)
 
 ## License
 
